@@ -1,0 +1,69 @@
+notes
+figma e-school
+font-familly
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto', sans-serif;
+color
+	bag:#F0FFF0
+	black:#000000
+	green:#21B573
+	whait
+	red hover a use hba:#FD511A;
+header
+
+layout
+
+section
+
+semantice 
+
+code coment
+
+reuse...
+
+code repetision avoid
+
+
+
+
+psd to html/psd to bootstrp
+psd to html responsibe with bootstrp
+
+font familly{
+	pt sence
+	bold
+	italic
+}
+font-family: 'PT Sans', sans-serif;
+
+
+color
+black:#010101
+ash:#898989
+yellow:#fcdb00
+
+h2 use hwica --313841
+
+p use hwica---555555
+==========
+
+lg:1024
+xl:1200
+xxl:1440
+
+
+
+md:768
+
+
+sm:576
+col:320
+
+header:lg xl xxl    md    sm col
+menu
+
+
+slider:lg xl xxl    md    sm col
+
+
+
